@@ -1,0 +1,5 @@
+[
+    {"fruit": "Apple","size": "Large","color": "Blue","Time":"2010-02-03 12:10:10"},
+    {"fruit": "Orange","size": "Large","color": "Yellow","Time":"2010-02-03 12:20:20"},
+    {"fruit": "Banana","size": "Large","color": "Green","Time":"2010-02-03 12:21:30"}
+]
